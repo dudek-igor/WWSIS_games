@@ -1,2 +1,2 @@
-# dudek-igor-WWSIS_game
+# Games in Javascript 💻
 Games for studies
