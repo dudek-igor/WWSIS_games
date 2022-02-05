@@ -1,0 +1,17 @@
+{
+  "name": "game_3",
+  "version": "1.0.0",
+  "description": "2024 game",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx parcel index.html"
+  },
+  "author": "Igor Dudek",
+  "license": "MIT",
+  "devDependencies": {
+    "parcel": "^2.2.1"
+  },
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
+}
